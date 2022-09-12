@@ -1,4 +1,4 @@
 # TmpRepo
 for test
 
-init
+init rep
